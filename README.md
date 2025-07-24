@@ -2,14 +2,15 @@
 
 #### Full Stack Software Developer
 
-I'm an 18-year-old developer. I love to code and solve deep problems using cutting-edge tech. My main focus is on full-stack development, creating applications that impact thousands of users.
+I'm an 18-year-old developer passionate about solving real-world problems through code.  
+My main focus is full-stack development, and I'm driven by the idea of building tech that truly impacts people's lives.
 
-I am also a student at [Dom Helder Camara](https://domhelder.edu.br/), where I study Computer Science.
+I'm currently studying Computer Science at [Dom Helder Câmara](https://domhelder.edu.br/) University in Brazil.
 
 * 🌍  I'm based in Belo Horizonte, Brazil
 * ✉️  You can contact me at [pedrohenriquesslp@gmail.com](mailto:pedrohenriquesslp@gmail.com)
 * 🚀  I'm currently interning at FUNDEP, assigned to the HC-UFMG Telehealth Center, where I work across both infrastructure/support and software development tasks.
-* 🧠  I'm always learning and exploring new programming languages, frameworks, and creative ways to solve real-world problems.  
+* 🧠  I'm always learning and experimenting with new languages, frameworks, and creative ways to solve real-world problems.  
 * 🤝  I'm open to collaborating on projects related to education, technology, or anything that makes people’s lives easier.  
 * ⚡  I'm passionate about games, tech, and creative problem-solving — and I believe in coding with purpose.
 
@@ -20,7 +21,7 @@ I am also a student at [Dom Helder Camara](https://domhelder.edu.br/), where I s
 
 ### Languages I'm learning: <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/sql-777BB4?style=for-the-badge&logo=sql&logoColor=white"/>
 
-### Languages I will learn soon: <img src="https://img.shields.io/badge/-00599C?style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/%3C/%3E%20htmx-3D72D7?style=for-the-badge&logo=mysl&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/Kotlin-B125EA?style=for-the-badge&logo=kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"/> <img src="https://img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=perl&logoColor=white"/> <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"/> <img src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black"/> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/SQLite-007ACC?style=for-the-badge&logo=sqlite&logoColor=white"/> <img src="https://img.shields.io/badge/NoSQL-000000?style=for-the-badge&logo=&logoColor=white"/>
+### Languages I will learn soon: <img src="https://img.shields.io/badge/-00599C?style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/%3C/%3E%20htmx-3D72D7?style=for-the-badge&logo=mysl&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/Kotlin-B125EA?style=for-the-badge&logo=kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"/> <img src="https://img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=perl&logoColor=white"/> <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"/> <img src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black"/> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/SQLite-007ACC?style=for-the-badge&logo=sqlite&logoColor=white"/> <img src="https://img.shields.io/badge/NoSQL-000000?style=for-the-badge&logo=&logoColor=white"/>
 
 ### IDEs that I use: <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/> <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/> <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white"/> <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/> <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important"/>
 
@@ -34,7 +35,7 @@ I am also a student at [Dom Helder Camara](https://domhelder.edu.br/), where I s
 
 ### OS: <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/> <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/> <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white"/> <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white"/>
 
-## What I don't know, give me a few days 😁
+## What I don't know, give me a few time 😁
 
 [![peguimasid github stats](https://github-readme-stats.vercel.app/api?username=PedroX-dev&show_icons=true&title_color=fff&icon_color=37aaff&text_color=f8f8f2&bg_color=171c24&count_private=true)](https://github.com/PedroX-dev)](https://github.com/PedroX-dev)
 
