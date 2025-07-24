@@ -8,7 +8,7 @@ I am also a student at [Dom Helder Camara](https://domhelder.edu.br/), where I s
 
 * 🌍  I'm based in Belo Horizonte, Brazil
 * ✉️  You can contact me at [pedrohenriquesslp@gmail.com](mailto:pedrohenriquesslp@gmail.com)
-* 🚀  I'm currently freelancing for companies as a Full Stack Software Developer
+* 🚀  I'm currently interning at FUNDEP, assigned to the HC-UFMG Telehealth Center, where I work across both infrastructure/support and software development tasks.
 * 🧠 I'm learning low-level programming, functional programming, and scalable, resilient application architecture.
 * 🤝  I'm open to collaborating on projects that have a high impact in peoples lives
 * ⚡  I love sports and my favorite is Crossfit
