@@ -4,10 +4,10 @@
 
 I'm a 18-year-old developer. I love to code and solve deep problems using cutting-edge tech. My main focus is on fullstack development, creating applications that impact thousands of users.
 
-I am also a student at [Dom Helder Camara](https://domhelder.edu.br/menu-dom-helder/dom-helder-camara/), a Software Engineering school with [57 campus in 32 countries](https://www.42network.org/42-schools/).
+I am also a student at [Dom Helder Camara](https://domhelder.edu.br/), where I study Computer Science.
 
 * 🌍  I'm based in Belo Horizonte, Brazil
-* ✉️  You can contact me at [guilhermomasid@gmail.com](mailto:guilhermomasid@gmail.com)
+* ✉️  You can contact me at [pedrohenriquesslp@gmail.com](mailto:pedrohenriquesslp@gmail.com)
 * 🚀  I'm currently freelancing for companies as a Full Stack Software Developer
 * 🧠 I'm learning low-level programming, functional programming, and scalable, resilient application architecture.
 * 🤝  I'm open to collaborating on projects that have a high impact in peoples lives
