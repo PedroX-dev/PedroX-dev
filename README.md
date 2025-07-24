@@ -47,7 +47,7 @@ I'm currently studying Computer Science at [Dom Helder Câmara](https://domhelde
 💻 Operating Systems
 <p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="Windows"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="Android"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linuxmint/linuxmint-original.svg" height="40" alt="Linux Mint"/> <img src="https://img.icons8.com/?size=100&id=20828&format=png&color=000000" height="40" alt="iOS"/> </p>
 
-## What I don't know, give me a few time 😁
+## What I don’t know yet, give me a little time and I’ll figure it out. <img src="https://img.icons8.com/?size=100&id=bEn2YtGabda1&format=png&color=000000" height="40" alt="conserto"/>
 
 [![peguimasid github stats](https://github-readme-stats.vercel.app/api?username=PedroX-dev&show_icons=true&title_color=fff&icon_color=37aaff&text_color=f8f8f2&bg_color=171c24&count_private=true)](https://github.com/PedroX-dev)](https://github.com/PedroX-dev)
 
