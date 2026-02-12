@@ -52,7 +52,7 @@ I'm currently studying Computer Science at [Dom Helder Câmara](https://domhelde
 [![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=PedroX-dev&show_icons=true&theme=github_dark)](https://github.com/PedroX-dev)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroX-dev&layout=compact&title_color=fff&text_color=f8f8f2&hide=java&bg_color=171c24)](https://github.com/PedroX-dev)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PedroX-dev&layout=compact&title_color=fff&text_color=f8f8f2&hide=java&bg_color=171c24)](https://github.com/PedroX-dev)
 
 
 #### Socials
