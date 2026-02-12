@@ -23,7 +23,7 @@ I'm currently studying Computer Science at [Dom Helder Câmara](https://domhelde
 🌱 Currently Learning
 <p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/> <img src="https://img.icons8.com/?size=100&id=38389&format=png&color=000000" height="40" alt="GIT"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#"/> <img src="https://img.shields.io/badge/htmx-3D72D7?style=for-the-badge&logoColor=white" height="40" alt="htmx"/> </p>
 
-<details> <summary>🧪 More things I'm exploring</summary>
+<details open> <summary>🧪 More things I'm exploring</summary>
 
   
 <br><br>🧠 Languages I Will Learn Soon
