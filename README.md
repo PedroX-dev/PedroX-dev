@@ -49,7 +49,7 @@ I'm currently studying Computer Science at [Dom Helder Câmara](https://domhelde
 
 ## What I don’t know yet, give me a little time and I’ll figure it out. <img src="https://img.icons8.com/?size=100&id=bEn2YtGabda1&format=png&color=000000" height="40" alt="conserto"/>
 
-[![peguimasid github stats](https://github-readme-stats.vercel.app/api?username=PedroX-dev&show_icons=true&title_color=fff&icon_color=37aaff&text_color=f8f8f2&bg_color=171c24&count_private=true)](https://github.com/PedroX-dev)
+[![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=PedroX-dev&show_icons=true&theme=github_dark)](https://github.com/PedroX-dev)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroX-dev&layout=compact&title_color=fff&text_color=f8f8f2&hide=java&bg_color=171c24)](https://github.com/PedroX-dev)
