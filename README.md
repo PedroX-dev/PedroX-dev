@@ -49,7 +49,15 @@ I'm currently studying Computer Science at [Dom Helder Câmara](https://domhelde
 
 ## What I don’t know yet, give me a little time and I’ll figure it out. <img src="https://img.icons8.com/?size=100&id=bEn2YtGabda1&format=png&color=000000" height="40" alt="conserto"/>
 
-[![Pedro's GitHub stats](https://github-stats-extended.vercel.app/api/?username=PedroX-dev&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=Pedro's+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed)](https://github.com/PedroX-dev)   [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PedroX-dev&layout=compact&title_color=fff&text_color=f8f8f2&hide=java&bg_color=171c24)](https://github.com/PedroX-dev)
+[![Pedro's GitHub stats](https://github-stats-extended.vercel.app/api/?username=PedroX-dev&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=Pedro's+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed)](https://github.com/PedroX-dev)
+
+<picture>
+  <source
+    srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=PedroX-dev&langs_count=4&theme=dark_github"
+    media="(prefers-color-scheme: dark)"
+  />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=PedroX-dev&langs_count=4&theme=light_github" alt="Top Langs do Pedro" />
+</picture>
 
 
 #### Socials
