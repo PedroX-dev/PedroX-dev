@@ -50,13 +50,15 @@ I'm currently studying Computer Science at [Dom Helder Câmara](https://domhelde
 ## What I don’t know yet, give me a little time and I’ll figure it out. <img src="https://img.icons8.com/?size=100&id=bEn2YtGabda1&format=png&color=000000" height="40" alt="conserto"/>
 
 <a href="https://github.com/PedroX-dev">
-  <img src="https://github-stats-extended.vercel.app/api/?username=PedroX-dev&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=Pedro's+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed" alt="Pedro's GitHub stats" />
+  <img align="left" src="https://github-stats-extended.vercel.app/api/?username=PedroX-dev&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=Pedro's+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed" alt="Pedro's GitHub stats" />
 </a>
+
 <picture>
   <source srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=PedroX-dev&langs_count=4&theme=dark_github" media="(prefers-color-scheme: dark)" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=PedroX-dev&langs_count=4&theme=light_github" alt="Top Langs do Pedro" />
+  <img align="right" src="https://github-stats-extended.vercel.app/api/top-langs/?username=PedroX-dev&langs_count=4&theme=light_github" alt="Top Langs do Pedro" />
 </picture>
 
+<br clear="both" />
 
 #### Socials
 
